@@ -1,0 +1,19 @@
+.footer {
+    background-color: #2e2f42;
+    padding: 100px 0;
+}
+.footer .logo {
+    color: #f4f4fd;
+}
+
+.footer .logo span {
+    color: #4d5ae5;
+}
+.footer-text {
+    margin-top: 16px;
+
+    color: #f4f4fd;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    width: 264px;
+}
